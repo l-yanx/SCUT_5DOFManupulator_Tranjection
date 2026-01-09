@@ -1,0 +1,2 @@
+/usr/bin/ar qc libarm_control.a CMakeFiles/arm_control.dir/src/arm_control/src/forward_kinematics.cpp.o
+/usr/bin/ranlib libarm_control.a

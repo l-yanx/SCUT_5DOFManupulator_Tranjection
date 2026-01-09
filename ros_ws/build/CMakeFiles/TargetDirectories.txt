@@ -1,0 +1,6 @@
+/home/lyx/scut_lessondesign/ros_ws/build/CMakeFiles/arm_control.dir
+/home/lyx/scut_lessondesign/ros_ws/build/CMakeFiles/arm_driver.dir
+/home/lyx/scut_lessondesign/ros_ws/build/CMakeFiles/arm_planning.dir
+/home/lyx/scut_lessondesign/ros_ws/build/CMakeFiles/arm_ui_node.dir
+/home/lyx/scut_lessondesign/ros_ws/build/CMakeFiles/edit_cache.dir
+/home/lyx/scut_lessondesign/ros_ws/build/CMakeFiles/rebuild_cache.dir

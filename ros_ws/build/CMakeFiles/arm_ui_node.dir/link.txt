@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/arm_ui_node.dir/src/arm_task/src/arm_ui_node.cpp.o -o arm_ui_node  libarm_planning.a libarm_control.a libarm_driver.a 

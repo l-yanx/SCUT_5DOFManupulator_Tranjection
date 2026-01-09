@@ -1,0 +1,2 @@
+/usr/bin/ar qc libarm_driver.a CMakeFiles/arm_driver.dir/src/arm_driver/src/arm_serial_node.cpp.o
+/usr/bin/ranlib libarm_driver.a
